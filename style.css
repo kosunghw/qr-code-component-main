@@ -18,20 +18,20 @@ body {
 }
 
 .flex-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     background-color: hsl(0, 0%, 100%);
     padding: 16px 16px 40px 16px;
     border-radius: 20px;
     width: 320px;
     height: 500px;
-    gap: 24px;
 }
 
 img {
     border-radius: 10px;
     width: 100%;
+}
+
+.img-container {
+    margin-bottom: 24px;
 }
 
 .text-container {
