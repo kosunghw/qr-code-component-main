@@ -46,10 +46,13 @@ img {
     font-weight: 700;
     font-size: 22px;
     line-height: 120%;
+    color: hsl(218, 44%, 22%);
+    letter-spacing: 0;
 }
 
 .body-text {
     color: hsl(216, 15%, 48%);
     font-size: 15px;
     line-height: 140%;
+    letter-spacing: 0.2px;
 }
